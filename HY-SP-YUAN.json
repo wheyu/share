@@ -14,11 +14,11 @@
     "index": 2,
     "name": "量子资源",
     "type": "xml",
-    "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+    "url": "https://cj.lziapi.com/api.php/providedown/vod/at/xml/",
     "group": "默认",
     "isActive": true,
     "star": 4.5,
-    "tip": "广告",
+    "tip": "",
     "status": "可用"
   },
   {
@@ -107,6 +107,17 @@
     "isActive": false,
     "star": 4.5,
     "tip": "",
+    "status": "可用"
+  },
+  {
+    "index": 11,
+    "name": "量子资源2",
+    "type": "xml",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+    "group": "默认",
+    "isActive": false,
+    "star": 4.5,
+    "tip": "广告",
     "status": "可用"
   }
 ]
