@@ -29,8 +29,16 @@
   ],
   "caijizhan": [
     {
-      "name": "七七",
-      "url": "http://api.kunyu77.com/api.php"
+      "name": "量子(采)",
+      "url": "https://cj.lziapi.com/api.php"
+    },
+    {
+      "name": "非凡(采)",
+      "url": "http://cj.ffzyapi.com/api.php"
+    },
+    {
+      "name": "68(采)",
+      "url": "https://caiji.68zyapi.com/api.php"
     }
   ],
   "zhujiexi": [
@@ -59,6 +67,14 @@
     {
       "name": "备解5",
       "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "name": "备解6",
+      "url": "https://jx.rdhk.net/?v="
+    },
+    {
+      "name": "备解7",
+      "url": "https://www.8090g.cn/?url="
     }
   ],
   "dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -456,19 +472,19 @@
       "筛选列表": [
         {
           "分类名称": "电影",
-          "分类链接": "https://rebozj.pro/show/1--hits---------.html"
+          "分类链接": "https://rebozj.pro/show/1--hits------翻页---.html"
         },
         {
           "分类名称": "电视剧",
-          "分类链接": "https://rebozj.pro/show/2--hits---------.html"
+          "分类链接": "https://rebozj.pro/show/2--hits------翻页---.html"
         },
         {
           "分类名称": "动漫",
-          "分类链接": "https://rebozj.pro/show/4--hits---------.html"
+          "分类链接": "https://rebozj.pro/show/4--hits------翻页---.html"
         },
         {
           "分类名称": "综艺",
-          "分类链接": "https://rebozj.pro/show/5--hits---------.html"
+          "分类链接": "https://rebozj.pro/show/5--hits------翻页---.html"
         }
       ],
       "列表二次截取": "class=\"stui-vodlist clearfix\"$$</ul>",
