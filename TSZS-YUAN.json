@@ -41,6 +41,10 @@
             "url": "https://caiji.68zyapi.com/api.php"
         },
         {
+            "name": "红牛(采)",
+            "url": "https://www.hongniuzy2.com/api.php"
+        },
+        {
             "name": "飞速(采)",
             "url": "https://www.feisuzyapi.com/api.php"
         }
